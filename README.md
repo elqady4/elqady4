@@ -3,6 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Ehab ElQady</h1>
+         
 - I am a 👨‍💻 software developer with a passion for 🚀 technology. I have been studying 💻 computer science for many years and have a strong understanding of the principles and practices of 🏢 software development.
 
 - I am always 👀 up-to-date on the latest technologies and trends, and I am eager to learn 📚 new things. I am also a 💡 creative thinker and enjoy coming up with new solutions to problems.
